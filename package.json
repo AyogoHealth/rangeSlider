@@ -3,7 +3,7 @@
   "title": "range-slider",
   "description": "Simple, small and fast vanilla JavaScript polyfill for the HTML5 <input type=\"range\"> slider element",
   "version": "0.4.4",
-  "main": "dist/range-slider.js",
+  "main": "dist/range-slider.min.js",
   "scripts": {
     "dev": "webpack-dev-server --no-inline --watch-content-base",
     "build": "cross-env NODE_ENV=build webpack",
